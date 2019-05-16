@@ -1,0 +1,18 @@
+{
+    "name": "Who Is On Phone",
+    "version": "1.0.0",
+    "size": {
+        "width": 1,
+        "height": 1
+    },
+    "fullpage": true,
+    "mapping": [{
+        "alias": "onPhone",
+        "dataSetId": "b7956c48-ce0a-4d9c-88ea-dd58f17c6590",
+        "fields": [{
+            "alias": "name",
+            "columnName": "Name"
+        }]
+    }],
+    "id": "{}"
+}
